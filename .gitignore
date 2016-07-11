@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Library
+/ProjectSettings
+/Temp
+/Procedural Terrain Generation.sln
+/Procedural Terrain Generation-csharp.sln
+/Assembly-CSharp.csproj
+/Assembly-CSharp-vs.csproj
+/Assets/PoissonSampler.cs.meta
+/Assets/Materials.meta
+/Assets/Materials
+/Assets/MapGeneratorEditor.cs.meta
+/Assets/MapGenerator.cs.meta
+/Assets/MapDisplay.cs.meta
